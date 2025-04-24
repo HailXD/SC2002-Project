@@ -49,7 +49,7 @@ public class ManagerView extends BaseView {
             System.out.println(" 2. Edit My Project Details");
             System.out.println(" 3. Delete My Project");
             System.out.println(" 4. Toggle Project Visibility");
-            System.out.println(" 5. View All Projects (Manager Oversight)");
+            System.out.println(" 5. View All Projects");
             System.out.println(" 6. View My Managed Projects");
             System.out.println("--- Staff & Application Management ---");
             System.out.println(" 7. Manage Officer Registrations (Approve/Reject)");
@@ -57,7 +57,7 @@ public class ManagerView extends BaseView {
             System.out.println(" 9. Manage Withdrawal Requests (Approve/Reject)");
             System.out.println("--- Reporting & Enquiries ---");
             System.out.println("10. Generate Applicant Report (Booked Flats)");
-            System.out.println("11. View Enquiries (ALL Projects)");
+            System.out.println("11. View Enquiries (All Projects)");
             System.out.println("12. View/Reply Enquiries (My Managed Projects)");
             System.out.println("--- Common Actions ---");
             System.out.println("13. Apply/Clear Project Filters (Affects Views 5, 6, 10, 12)");
