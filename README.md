@@ -1,5 +1,12 @@
 # BTO Management System
 
+## Members
+- Chew Jun Yang - U2323006A
+- Jayaraj Kishore Kumar - U2423796B
+- Jordan Chia Zhi Heng - U2421931C
+- Kong Kai Wang - U2323506H
+- Patrick Elliot Subagio - U2420459E
+
 ## Overview
 
 SC2002 Project, console-based Java app to simulate a Build-To-Order system, the app features different user roles to interact and mange projects, applications, registrations and enquires.
@@ -37,6 +44,18 @@ The system attempts to create these files with headers if they don't exist upon 
 ```
 javac BTOApp.java & java BTOApp
 ```
+
+## Report
+The project report is in the base folder alongside BTOApp.java and this README.md called `Report.pdf`
+
+## Test Cases
+The test cases we used can be found in Test Cases.pdf, there are 4 columns, test number, success case, failure case and Copy, where copy is lines of command that can be copied into the console to run the test case
+
+## Test Results
+We ran the test cases and stored images of each output to the folder `Test`
+
+## Javadoc
+The java doc can be found in the `html` folder
 
 ## Class Diagram
 ![Class Diagram](Class.png)
