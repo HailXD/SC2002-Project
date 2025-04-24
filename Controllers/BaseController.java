@@ -47,8 +47,8 @@ public abstract class BaseController {
     protected final Scanner scanner;
     protected final AuthController authController;
 
-    protected String filterLocation = null;
-    protected FlatType filterFlatType = null;
+    protected static String filterLocation = null;
+    protected static FlatType filterFlatType = null;
 
     /**
      * Constructs a new BaseController, initializing shared services and components.
