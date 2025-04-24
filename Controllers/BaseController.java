@@ -179,7 +179,7 @@ public abstract class BaseController {
 
         return allProjects.stream()
                 .filter(p -> filterLocation == null || p.getNeighborhood().equalsIgnoreCase(filterLocation))
-                .filter(p -> filterFlatType == null || p.getFlatTypes().containsKey(filterFlatType))
+                .filter(p -> filterFlatType == null || p.getFlatTypeDetails(filterFlatType).getAvailableUnits() > 0)
                 .filter(p -> !checkVisibility || isProjectVisibleToCurrentUser(p))
                 .filter(p -> !checkApplicationPeriod || p.isApplicationPeriodActive(currentDate))
                 .filter(p -> !checkNotExpired || !p.isApplicationPeriodExpired(currentDate))

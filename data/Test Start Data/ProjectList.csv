@@ -1,9 +1,9 @@
 Project Name,Neighborhood,Type 1,Number of units for Type 1,Selling price for Type 1,Type 2,Number of units for Type 2,Selling price for Type 2,Application opening date,Application closing date,Manager,Officer Slot,Officer,Visibility
-Acacia Visibility 0,Yishun,2-Room,2,350000.0,3-Room,2,450000.0,2025-03-02,2030-03-30,S3535353M,2,,0
-Acacia Expired,Yishun,2-Room,2,350000.0,3-Room,2,450000.0,2025-03-02,2025-03-30,T2222222M,2,,1
-Acacia Future,Bugis,2-Room,2,350000.0,3-Room,2,450000.0,2060-02-15,2060-03-30,T2121212M,2,,1
-Acacia 22,Yishun,2-Room,2,350000.0,3-Room,2,450000.0,2025-02-15,2025-06-01,T2020202M,2,,1
-Acacia 02,Bedok,2-Room,0,350000.0,3-Room,2,450000.0,2025-02-15,2025-06-01,T2525252M,2,,0
-Acacia 20,Yishun,2-Room,2,350000.0,3-Room,0,450000.0,2025-02-15,2025-06-01,T2323232M,2,,1
-Acacia 00,Yishun,2-Room,0,350000.0,3-Room,0,450000.0,2025-02-15,2025-06-01,S3434343M,2,,1
-Acacia Slotless,Mcdonald,2-Room,2,350000.0,3-Room,2,450000.0,2025-02-15,2025-06-01,T2424242M,2,"T2222222O;T2323232O",1
+Acacia Visibility 0,Yishun,2-Room,2,350000,3-Room,2,450000,2/3/2025,30/3/2030,S3535353M,2,,0
+Acacia Expired,Yishun,2-Room,2,350000,3-Room,2,450000,2/3/2025,30/3/2025,T2222222M,2,,1
+Acacia Future,Bugis,2-Room,2,350000,3-Room,2,450000,15/2/2060,30/3/2060,T2121212M,2,,1
+Acacia 22,Yishun,2-Room,2,350000,3-Room,2,450000,15/2/2025,1/6/2025,T2020202M,2,,1
+Acacia 02,Bedok,2-Room,0,350000,3-Room,2,450000,15/2/2025,1/6/2025,T2525252M,2,,1
+Acacia 20,Yishun,2-Room,2,350000,3-Room,0,450000,15/2/2025,1/6/2025,T2323232M,2,,1
+Acacia 00,Yishun,2-Room,0,350000,3-Room,0,450000,15/2/2025,1/6/2025,S3434343M,2,,1
+Acacia Slotless,Mcdonald,2-Room,2,350000,3-Room,2,450000,15/2/2025,1/6/2025,T2424242M,2,T2222222O;T2323232O,1
