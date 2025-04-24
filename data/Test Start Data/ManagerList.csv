@@ -1,0 +1,10 @@
+Name,NRIC,Age,Marital Status,Password
+ManagerMarried20,T2020202M,20,MARRIED,password
+ManagerProject3,T2424242M,24,MARRIED,password
+ManagerExpiredProject,T2222222M,22,MARRIED,password
+ManagerMarried21,T2121212M,21,MARRIED,password
+ManagerProject2,T2323232M,23,MARRIED,password
+ManagerSingle35,S3535353M,35,SINGLE,password
+ManagerProjectless,T2626262M,21,MARRIED,password
+ManagerSingle34,S3434343M,34,SINGLE,password
+ManagerExtra1,T2525252M,25,MARRIED,password
